@@ -1,4 +1,5 @@
-[![Header](https://github.com/lastname-dev/lastname-dev/blob/main/lastname-dev-header.png?raw=true "Header")](#)
+[![Header](https://github.com/lastname-dev/lastname-dev/assets/81070080/53f74852-a536-4ad0-8edf-d107d404ef80 "Header")](#)
+
 
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=for-the-badge)](velog.io/@ch0jm)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://dapper-banana-971.notion.site/Choi-Jong-Myung-9f42e548824940afa4916d919133b64a?pvs=4)
