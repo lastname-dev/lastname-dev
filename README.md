@@ -3,7 +3,7 @@
 <p >
 <a href="https://velog.io/@ch0jm"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge"></a>
 <a href="https://dapper-banana-971.notion.site/Choi-Jong-Myung-9f42e548824940afa4916d919133b64a?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
-<a href="https://choijongmyung.site"><img src="https://img.shields.io/badge/Portfolio-CCCCCC?style=for-the-badge&logo=About.me&logoColor=black"></a>
+<a href="https://jongmyung.site"><img src="https://img.shields.io/badge/Portfolio-CCCCCC?style=for-the-badge&logo=About.me&logoColor=black"></a>
 <a href="https://instagram.com/ch0jm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="mailto:choejongmyeong97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:choejongmyeong97@gmail.com"></a>
 </p>
